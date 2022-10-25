@@ -11,7 +11,7 @@ Course: CIS-106
 
 
 # Practices
-![P1](../P1.png)
+![P1](P1.png)
 
 
 
