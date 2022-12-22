@@ -45,3 +45,23 @@ Semester: Fall2022
 *  A firewall is a network security device that monitors traffic to or from your network and allows for certain traffic to be let through based on your security rules.
 ## What is SSH?
 * SSH stands for Secure Shell Protocol, its a protocol for operating network services over an unsecured network.
+
+# Deliverable 2 
+
+## Part 1
+![d1](Screenshot%202022-12-22%20030238.png)
+* In part 1 I set up the Ubuntu Server, by properly updating the settings to fit my needs
+
+## Part 2
+![d2](LinuxDel1.2png.png)
+In Deliverable 2 Part 2 I installed apache, and configered the firewal
+
+## Part 3
+* In part 3 I set up SSH, so I would be able to use my server through my Ubuntu VM.
+
+## Part 4
+* We began setting up the website, using nano and establishing our domain name
+
+## Part 5 
+![p5](finalprj.png)
+* I had finished setting up my website, I managed to properly run my server, and control it using my Ubuntu VM.
